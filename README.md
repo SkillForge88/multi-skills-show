@@ -37,8 +37,19 @@
 **不断更新中......**
 
 ## 🎪 怎么玩？
+### Claude Code
+
+> Claude Code 从 **git 仓库根目录** 的 `/user/path/to/.claude/skills/` 查找 skill。请在正确的位置执行。
+
+```bash
+# 安装到当前项目（在 git 仓库根目录执行）
+mkdir -p .claude/skills
+git clone https://github.com/SkillForge88/multi-skills-show.git
+cp multi-skills-show/* /user/path/to/.claude/
+cd /user/path/to/.claude/
+claude
+```
 
 ## 📢 免责声明
-
 本项目仅为**娱乐整活、二创创作**使用，所有 Skill 均为网络风格化模拟，无恶意指向、不代表任何人真实立场，无任何商业用途。
 如有侵权 / 不适，联系即删。
