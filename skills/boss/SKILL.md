@@ -1,5 +1,5 @@
 ---
-name: 真老板 | 真老板
+name: boss
 description: 真正的老板来了，不画大饼我不舒服，不是真老板我不当
 accent-color: "#c41e3a"
 ---
